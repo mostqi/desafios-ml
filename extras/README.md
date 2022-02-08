@@ -13,4 +13,4 @@ lógica e as ferramentas usadas pelo candidado para atingir o resultado.
 
 ## Notas
 
-As imagens estão disponíveis neste [link](../files/images_desafio.zip).
+As imagens estão disponíveis neste [link](../files/imagens_desafio.zip).
