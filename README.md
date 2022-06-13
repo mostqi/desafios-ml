@@ -7,7 +7,7 @@ Seguem abaixo os itens do desafio para os candidatos à vaga para a equipe de Ma
 
 ## Instruções
 
-Você deve realizar o fork deste projeto e fazer o push no seu próprio repositório.
+Você deve clonar este projeto e desenvolvê-lo em seu próprio repositório, em modo **privado**.
 
 A implementação deve ficar na pasta correspondente ao desafio. Fique à vontade para adicionar qualquer tipo de conteúdo que julgue útil ao projeto como, alterar/acrescentar um README com instruções de como executá-lo, etc.
 
