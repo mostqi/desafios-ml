@@ -14,7 +14,8 @@ A MOST, sendo uma empresa que se preocupa com inovações tecnológicas, em espe
 
 Você, candidato(a), deve criar um sistema utilizando deep learning capaz de detectar quando uma imagem enviada ao seu sistema é real ou fraude. Para isso, você deverá:
 - Utilizar um dataset chamado “CelebA-Spoof Dataset”, que pode ser baixado através desse link: https://github.com/ZhangYuanhan-AI/CelebA-Spoof. Porém, neste desafio, será oferecido para você, candidato(a), um conjunto
-parcial do dataset total (um sample), contendo aproximadamente 4 GBs, para que você possa realizar seus experimentos. Você deve utilizar o conjunto oferecido por nós em seu desafio, e não baixar o dataset completo.
+parcial do dataset total (um sample), contendo aproximadamente 4 GBs, para que você possa realizar seus experimentos. Você deve utilizar o conjunto oferecido por nós em seu desafio, e não baixar o dataset completo. Para baixar o sample use o link ao lado:
+https://mostqi-infra-sp-public.s3.sa-east-1.amazonaws.com/desafios/MLChallenge_Dataset.zip
 - Você deve, preferencialmente, criar sua própria arquitetura para esta tarefa (e não apenas importar uma rede já existente). Pode ser utilizado como backbone redes pré-treinadas, porém tentativas de melhorar a arquitetura e inovar são muito bem vistas. Para isso, você pode usar o framework de sua preferência (como pytorch ou keras). Aqui é onde você pode explorar sua criatividade, utilizar diferentes técnicas e ideias para criar uma rede neural. Embora machine learning seja um processo iterativo e experimental, é importante saber entender e explicar porque determinadas escolhas de arquiteturas e estratégias de treinamento funcionam melhor para sua tarefa, ou seja, ter uma boa interpretabilidade de sua arquitetura.
 - Criar e estruturar um projeto no github para a melhor solução (arquitetura) encontrada em seus experimentos.
 - O projeto deve ser feito utilizando Python.
