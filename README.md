@@ -2,8 +2,9 @@
 
 Seguem abaixo os itens do desafio para os candidatos para a equipe de Machine Learning.
 
-1. [Desafio - Face Presentation Attack Detection Challenge](./desafio-01/README.md)
-2. [Desafio adicional (opcional)](./extras/README.md)
+1. [Desafio 01 - Face Presentation Attack Detection Challenge](./desafio-01/README.md)
+2. [Desafio 01 - Extra (opcional)](./extras/README.md)
+3. [Desafio 02 - Sistema Agente + Vetor + MCP (Model Context Protocol)](./desafio-02/README.md)
 
 ## Instruções
 
