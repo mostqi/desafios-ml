@@ -82,7 +82,7 @@ Diferenciais que ajudam a evidenciar senioridade. Nenhum é obrigatório para um
 
 ## Sessão ao vivo
 
-Submissões que passarem na revisão inicial incluirão uma **sessão de acompanhamento ao vivo** (tipicamente 60 minutos) no seu repositório — explicando seu design e fazendo alterações pontuais no código. Assistentes de código não são usados nessa sessão; consultar documentação de bibliotecas é permitido.
+Submissões que passarem na revisão inicial incluirão uma **sessão de acompanhamento ao vivo** (tipicamente 60 minutos) no seu repositório — explicando seu design e fazendo modificações ao vivo, que podem variar de alterações pontuais até a adição de novas funcionalidades. Assistentes de código não são usados nessa sessão; consultar documentação de bibliotecas é permitido.
 
 ## O que estamos avaliando
 
