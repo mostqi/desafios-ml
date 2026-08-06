@@ -78,9 +78,11 @@ Diferenciais que ajudam a evidenciar senioridade. Nenhum é obrigatório para um
 3. **`README.md`** próprio desta pasta com instruções de execução (cold start a partir do `.env`)
 4. **Vídeo curto** (Loom ou similar) mostrando o cold start e uma ingestão e query bem-sucedidas
 
-## Ferramentas de IA e sessão ao vivo
+**Ferramentas de IA:** Você pode usar assistentes de IA durante a construção do desafio.
 
-Você pode usar assistentes de IA durante a construção do desafio. Submissões que passarem na revisão inicial incluirão uma **sessão de acompanhamento ao vivo** (tipicamente 60 minutos) no seu repositório — explicando seu design e fazendo alterações pontuais no código. Assistentes de código não são usados nessa sessão; consultar documentação de bibliotecas é permitido.
+## Sessão ao vivo
+
+Submissões que passarem na revisão inicial incluirão uma **sessão de acompanhamento ao vivo** (tipicamente 60 minutos) no seu repositório — explicando seu design e fazendo alterações pontuais no código. Assistentes de código não são usados nessa sessão; consultar documentação de bibliotecas é permitido.
 
 ## O que estamos avaliando
 
